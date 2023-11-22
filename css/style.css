@@ -1,0 +1,860 @@
+/* nav start */
+.nav-link:hover {
+    background-color: #afafaf56;
+    border-radius: 30px;
+}
+
+.bgg:hover {
+    background-color: #afafaf56;
+    border-radius: 30px;
+
+}
+
+#tet {
+    color: #ffffff;
+    font-size: 52px;
+    padding-bottom: 30px;
+    padding-top: 90px;
+}
+
+#ytr {
+    color: #000000;
+    background: #ffffff;
+    padding-left: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 16px;
+    font-weight: bold;
+}
+
+#ytr:hover {
+    background-color: #fffafae7;
+}
+
+#yyy {
+    color: #fffdfd;
+    background: #545454;
+    padding-left: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 16px;
+    font-weight: bold;
+
+}
+
+#yyy:hover {
+    background-color: #ffffff60;
+}
+
+#ooo {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+#asa {
+    background: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/* nav end */
+/* side1start*/
+#kkk {
+    font-size: 53px;
+    font-weight: bold;
+    color: #000;
+    padding-bottom: 20px;
+    margin-left: 20px;
+
+}
+
+#lll {
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    margin-left: 12px;
+}
+
+#klk {
+    text-align: center;
+    color: #ffffff;
+    background: #000;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    font-weight: bold;
+    margin-left: 14px;
+}
+
+#klk:hover {
+    background-color: #080808d3;
+}
+
+#lklk {
+    font-size: 18px;
+
+}
+
+#mmm {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    padding-left: 90px;
+    background: #ffffff;
+}
+
+.dfd {
+    background: #ffffff;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-bottom: 24px;
+    margin-top: 30px;
+
+}
+
+/* side1 end */
+/* side2 start */
+#plpl {
+    font-size: 62px;
+    color: #000;
+    padding: 10px;
+}
+
+#qwq {
+    font-size: 20px;
+    color: #000000;
+    padding-bottom: 14px;
+}
+
+#rrr {
+    padding: 12px;
+    background: #EEEEEE;
+    color: #EEEEEE;
+    border-radius: 8px;
+    box-sizing: border-box;
+    cursor: text;
+    margin-bottom: 12px;
+}
+
+#rtr {
+    background: #000;
+    color: #ffffff;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#rtr:hover {
+    background-color: #080808d3;
+}
+
+/* side2 end */
+/* QR code start */
+#sss {
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#ddd {
+    margin-top: 38px;
+    margin-bottom: 38px;
+    margin-left: 20px;
+    margin-right: 20px;
+    position: relative;
+    background: #FFFFFF;
+}
+
+.ggg {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 30px;
+
+}
+
+.weq {
+    width: 50%;
+
+}
+
+.tre {}
+
+
+/* QR code end */
+/* Footer start */
+#hhh {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+#hha {
+    color: #ffffff;
+    text-decoration: none;
+    padding-top: 26px;
+}
+
+#hha:hover {
+    color: #afafaf;
+}
+
+#llm {
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+    position: absolute;
+
+}
+
+.line {
+    width: 116px;
+    height: 2px;
+    color: #000;
+    margin-top: 60px;
+    cursor: pointer;
+    position: relative;
+    opacity: 100%;
+
+}
+
+.line:hover {
+    color: #ffffff;
+
+}
+
+#bbb {
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: capitalize;
+    font-size: 20px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+#nnn {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+#nnn:hover {
+    color: #afafaf;
+}
+
+#zzz {
+    font-size: 18px;
+    padding-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+
+
+}
+
+.zzz2 {
+    margin-right: 50px;
+}
+
+.media:hover {
+    background-color: #afafaf;
+    padding-left: 16px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    padding-right: 16px;
+    border-radius: 5px;
+}
+
+.media {
+
+    padding-left: 16px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    padding-right: 16px;
+}
+
+#ccc {
+    font-size: 16px;
+    justify-content: flex-end;
+    padding-bottom: 40px;
+    float: left;
+    width: 50%;
+}
+
+.bbb {
+    color: #ffffff;
+}
+
+.bnb {
+    padding: 10px;
+}
+
+#mnm {
+    width: 150px;
+    margin-left: 30px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    gap: 12px;
+    font-size: small;
+}
+
+#opp {
+    color: #afafaf;
+    font-size: small;
+    font-family: system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+#olo {
+
+    font-size: small;
+    font-family: system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    justify-content: flex-end;
+    padding: 0;
+    gap: 14px;
+}
+
+#aaa {
+    color: #afafaf;
+    text-decoration: none;
+}
+
+#aaa:hover {
+    color: #d4d4d4;
+}
+
+.lk {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 0;
+    color: #afafaf;
+}
+
+/* login html start */
+.title {
+    font-family: "SegoeUI", Helvetica, Arial, sans-serif, "AppleColorEmoji", "SegoeUIEmoji", "SegoeUISymbol";
+    font-size: 20px;
+    margin: 10px;
+    justify-content: center;
+    padding-right: 25px;
+}
+
+.phone {
+    justify-content: center;
+}
+
+#number {
+    border-radius: 6px;
+    width: 300px;
+    background-color: #F6F6F6;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#number:hover {
+    border-color: royalblue;
+}
+
+.vv {
+    justify-content: center;
+
+}
+
+.continue {
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin: 10px;
+    color: #FFFFFF;
+    background: #000;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+.continue:hover {
+    background-color: #000000e3;
+}
+
+.bb {
+    justify-content: center;
+    color: #AFAFAF;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    text-align: center;
+}
+
+#zz {
+    width: 120px;
+    margin-right: 10px;
+}
+
+#zz:hover {
+    color: royalblue;
+    opacity: 70%;
+}
+
+#zzc {
+    width: 120px;
+    margin-left: 10px;
+}
+
+#zzc:hover {
+    color: royalblue;
+    opacity: 70%;
+}
+
+.mm {
+    text-align: center;
+
+}
+
+.aa {
+    padding-left: 60px;
+    padding-right: 60px;
+    margin-left: 14px;
+    margin-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin: 10px;
+    color: #000000;
+    background-color: #E2E2E2;
+    border-radius: 6px;
+    border: #FFFFFF;
+    font-family: -apple-system, BlinkMacSystemFont, "SegoeUI", Roboto, Helvetica, Arial, sans-serif, "AppleColorEmoji", "SegoeUIEmoji", "SegoeUISymbol";
+}
+
+.aa:hover {
+    background-color: #0000002d;
+}
+
+#photo {
+    padding-left: 65px;
+    padding-right: 65px;
+    margin-left: 14px;
+    margin-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin: 10px;
+    color: #000000;
+    background-color: #E2E2E2;
+    border-radius: 6px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    border: #FFFFFF;
+    font-family: -apple-system, BlinkMacSystemFont, "SegoeUI", Roboto, Helvetica, Arial, sans-serif, "AppleColorEmoji", "SegoeUIEmoji", "SegoeUISymbol";
+    text-align: center;
+}
+
+#photo:hover {
+    background-color: #0000002d;
+}
+
+#photot {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 14px;
+    margin-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin: 10px;
+    color: #000000;
+    background-color: #E2E2E2;
+    border-radius: 6px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    border: #FFFFFF;
+    font-family: -apple-system, BlinkMacSystemFont, "SegoeUI", Roboto, Helvetica, Arial, sans-serif, "AppleColorEmoji", "SegoeUIEmoji", "SegoeUISymbol";
+    text-align: center;
+}
+
+#photot:hover {
+    background-color: #0000002d;
+}
+
+.mv {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "SegoeUI", Roboto, Helvetica, Arial, sans-serif, "AppleColorEmoji", "SegoeUIEmoji", "SegoeUISymbol";
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.textl {
+    justify-content: center;
+    font-size: 12px;
+    font-family: -apple-system, BlinkMacSystemFont, "SegoeUI", Roboto, Helvetica, Arial, sans-serif, "AppleColorEmoji", "SegoeUIEmoji", "SegoeUISymbol";
+    padding-bottom: 8px;
+    color: #6B6B6B;
+    margin-bottom: 0%;
+}
+
+.textll {
+
+    font-size: 12px;
+
+    font-family: "SegoeUI", Helvetica, Arial, sans-serif, "AppleColorEmoji", "SegoeUIEmoji", "SegoeUISymbol";
+    color: #6B6B6B;
+    padding-left: 428px;
+    padding-bottom: 20px;
+    margin: 0;
+
+}
+
+.zz {
+    color: #000;
+}
+
+#we {
+    font-size: 0px;
+    font-family: "SegoeUI", Helvetica, Arial, sans-serif, "AppleColorEmoji", "SegoeUIEmoji", "SegoeUISymbol";
+
+}
+
+/* login html end */
+/* Drive start */
+.navbar {
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #FFFFFF;
+}
+
+/* fast part start */
+.text23 {
+    color: white;
+    text-align: justify;
+    font-size: 16px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    ;
+    margin-top: 136px;
+    margin-bottom: 136px;
+}
+
+.ooo {
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    ;
+    font-size: 54px;
+    margin-bottom: 18px;
+}
+
+.qqq {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* fast part end */
+/* secend part start */
+.cool {
+    font-size: 36px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 34px;
+    padding-top: 34px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.cool1 {
+    font-size: 20px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin-bottom: 0px;
+}
+
+.cool2 {
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 60px;
+}
+
+.cool3 {
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #000;
+}
+
+.cool4 {
+    width: 140px;
+    margin-top: 6px;
+}
+
+.cool4:hover {
+    color: #000;
+    opacity: 100%;
+}
+
+.cool0 {
+    background: white;
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
+/* secend part end */
+/* third part start */
+.third {
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
+.third1 {
+    font-size: 36px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.third2 {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 88px;
+    margin-bottom: 88px;
+    padding-left: 80px;
+    padding-right: 40px;
+}
+
+.third3 {
+    font-size: 16px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    margin: 0;
+}
+
+/* third part end */
+/* five part start */
+.five1 {
+    color: #000000;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.five2 {
+    width: 82px;
+    margin-bottom: 20px;
+    margin-top: 6px;
+}
+
+.five2:hover {
+    color: #000;
+    opacity: inherit;
+}
+
+.five3 {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 16px;
+}
+
+.five4 {
+    font-size: 20px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
+    margin-top: 12px;
+    margin-bottom: 15px;
+}
+
+.five5 {
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.five6 {
+    width: 48px;
+    height: 48px;
+}
+
+.five7 {
+    margin-bottom: 24px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+.five {
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
+/* five part end */
+/* six part start */
+.six {
+    background-image: url(/media/D_Driver_Campaign-Carbon-arabic2x.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+}
+
+.six1 {
+    margin-top: 70px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.six0 {
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 18px;
+}
+
+.six2 {
+    font-size: 16px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 18px;
+}
+
+.six3 {
+    font-weight: normal;
+}
+
+/* six part end */
+/* seven part start */
+.seven1 {
+    font-size: 36px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    ;
+    font-weight: 500;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.seven {
+    width: 100%;
+    height: 100%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.seven2 {
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
+}
+
+.seven3 {
+    width: 170px;
+
+}
+
+.seven3:hover {
+    color: #000;
+    opacity: inherit;
+}
+
+.seven4 {
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
+}
+
+.seven5 {
+    width: 292px;
+}
+
+.seven5:hover {
+    color: #000;
+    opacity: inherit;
+}
+
+.seven6 {
+    width: 66px;
+}
+
+.seven6:hover {
+    color: #000;
+    opacity: inherit;
+}
+
+/* seven part end */
+/* eight part start */
+.eight {
+    background: #F6F6F6;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.eight1 {
+    font-size: 36px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    padding: 0;
+}
+
+.eight2 {
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.eight3 {
+    text-align: center;
+    font-size: 20px;
+    padding-left: 16px;
+    padding-right: 0px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.eight4 {
+    box-sizing: border-box;
+    border-radius: 6px;
+    border-color: #000;
+    block-size: initial;
+}
+
+/* nine part start */
+.nine {
+    margin-top: 140px;
+    margin-bottom: 50px;
+}
+
+.nine1 {
+    font-size: 36px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+}
+
+.nine2 {
+    color: #000000;
+    width: 450px;
+    opacity: inherit;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 80px;
+    margin-top: 20px;
+}
+
+.nine3 {
+    font-size: 15px;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    text-align: justify;
+
+}
+
+.nine4 {
+    padding-left: 146px;
+}
+
+/* nine part end */
