@@ -3,6 +3,11 @@
     background-color: #afafaf56;
     border-radius: 30px;
 }
+.bgb{
+    color: white;
+    text-decoration: none;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
 .bgg:hover {
     background-color: #afafaf56;
