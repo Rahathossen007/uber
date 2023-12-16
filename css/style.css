@@ -1,4 +1,7 @@
 /* nav start */
+.nav-link {
+    color: rgb(255 255 255);
+}
 
 .nav-link:hover {
     background-color: #afafaf56;
