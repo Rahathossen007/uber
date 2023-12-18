@@ -7,6 +7,13 @@
     background-color: #afafaf56;
     border-radius: 30px;
 }
+#bz{
+    color: #000000;
+}
+#bz:hover{
+    background-color: #afafaf56;
+    border-radius: 30px; 
+}
 .bgb{
     color: white;
     text-decoration: none;
@@ -16,7 +23,6 @@
 .bgg:hover {
     background-color: #afafaf56;
     border-radius: 30px;
-
 }
 
 #tet {
